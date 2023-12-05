@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navaljadhav
-- 👀 I’m interested in Machine Learning...ML cComputer Vision, NLP
+- 👀 I’m interested in Machine Learning...ML Computer Vision, NLP
 - 💞️ I’m looking to collaborate ...
 - 📫 Email Me navaljadhav49@gmail.com ...
 
